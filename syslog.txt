@@ -1,0 +1,3 @@
+Mar 11 10:00:01 ubuntu sshd[1234]: Failed password for root from 192.168.1.10
+Mar 11 10:05:12 ubuntu kernel: [ 12.345678] USB device disconnected
+Mar 11 10:10:00 ubuntu systemd: Started Apache Web Server.
